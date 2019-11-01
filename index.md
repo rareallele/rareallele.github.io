@@ -4,7 +4,7 @@
 
 ### Research Projects | Python 
 
-[Neuroplasticity and gestational diabetes](/sample_page)
+[Neuroplasticity and gestational diabetes](/pdf/I-waves_analysis_notebook)
 <img src="images/Figure1.png?raw=true"/>
 
 ---
