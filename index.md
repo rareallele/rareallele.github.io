@@ -14,7 +14,7 @@
 ---
 ### Machine learning templates | Python
 
-- [Data preprocessing](http://example.com/)
+- [Data preprocessing](/pdf/data_preprocessing_template.py)
 - [Regression](http://example.com/)
 
 ---
