@@ -12,17 +12,13 @@
 <img src="images/CAR_GDM_mean.png?raw=true"/>
 
 ---
-### Machine learning templates | Python
-
-- [Data preprocessing](/pdf/data_preprocessing_template.py)
-- [Regression](http://example.com/)
-
----
 
 
 ### Published research
 
+Van Dam, J. M., Garrett, A. J., Schneider, L. A., Hodyl, N. A., Goldsworthy, M. R., Coat, S., . . . Pitcher, J. B. (2018). Reduced Cortical Excitability, Neuroplasticity, and Salivary Cortisol in 11-13-Year-Old Children Born to Women with Gestational Diabetes Mellitus. EBioMedicine, 31, 143-149. [doi:10.1016/j.ebiom.2018.04.011](https://www.sciencedirect.com/science/article/pii/S2352396418301397)
 
+Van Dam, J. M., Garrett, A. J., Schneider, L. A., Buisman-Pijlman, F. T. A., Short, M. A., Hodyl, N. A., . . . Pitcher, J. B. (2018). Variability of the cortisol awakening response and morning salivary oxytocin in late adolescence. J Neuroendocrinol, e12645. [doi:10.1111/jne.12645](https://onlinelibrary.wiley.com/doi/full/10.1111/jne.12645)
 
 
 ---
