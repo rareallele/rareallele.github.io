@@ -8,7 +8,7 @@
 <img src="images/Figure1.png?raw=true"/>
 
 ---
-[The cortisol awakening response and gestational diabetes](/pdf/Cortisol awakening response analysis.html)
+[The cortisol awakening response and gestational diabetes](/pdf/Cortisol_awakening_response_analysis.html)
 <img src="images/CAR_GDM_mean.png?raw=true"/>
 
 ---
