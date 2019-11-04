@@ -8,21 +8,17 @@
 <img src="images/Figure1.png?raw=true"/>
 
 ---
-[The cortisol awakening response and gestational diabetes](/pdf/sample_presentation.pdf)
+[The cortisol awakening response and gestational diabetes](/pdf/Cortisol_awakening_response_analysis.html)
 <img src="images/CAR_GDM_mean.png?raw=true"/>
 
 ---
+### Machine learning templates | Python
 
-### Data processing templates
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-
----
-
-### Machine learning analysis templates
+- [Data preprocessing](http://example.com/)
+- [Regression](http://example.com/)
 
 ---
+
 
 ### Published research
 
