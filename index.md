@@ -27,6 +27,10 @@ See the code [here](https://github.com/rareallele/CDSIRC-Annual-Report-2019-20).
 [The cortisol awakening response and gestational diabetes](/pdf/Cortisol_awakening_response_analysis.html)
 <img src="images/CAR_GDM_mean.png?raw=true"/>
 
+----------
+### SQL
+[Modeling](https://github.com/rareallele/cdr-sql) CDSIRC's data for use in Power BI.
+
 ---
 #### More to come!
 
