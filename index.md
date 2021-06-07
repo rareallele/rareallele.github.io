@@ -32,10 +32,19 @@ Figures produced using Plotly and R. Find the code [here](https://github.com/rar
 
 ### Published research
 
-Van Dam, J. M., Garrett, A. J., Schneider, L. A., Hodyl, N. A., Goldsworthy, M. R., Coat, S., . . . Pitcher, J. B. (2018). Reduced Cortical Excitability, Neuroplasticity, and Salivary Cortisol in 11-13-Year-Old Children Born to Women with Gestational Diabetes Mellitus. EBioMedicine, 31, 143-149. [doi:10.1016/j.ebiom.2018.04.011](https://www.sciencedirect.com/science/article/pii/S2352396418301397)
+Van Dam, J. M., et al. (2021). Cortical Plasticity and Interneuron Recruitment in Adolescents Born to Women with Gestational Diabetes Mellitus.  Brain Sci., 11(3), 388; doi.org/10.3390/brainsci11030388
 
-Van Dam, J. M., Garrett, A. J., Schneider, L. A., Buisman-Pijlman, F. T. A., Short, M. A., Hodyl, N. A., . . . Pitcher, J. B. (2018). Variability of the cortisol awakening response and morning salivary oxytocin in late adolescence. J Neuroendocrinol, e12645. [doi:10.1111/jne.12645](https://onlinelibrary.wiley.com/doi/full/10.1111/jne.12645)
+Van Dam, J. M., Goldsworthy, M. (2020). Case report of a vasovagal pre-syncope event during single-pulse transcranial magnetic stimulation in a healthy adult participant. Clin Neurophysiol, 131(4):981-982. doi: 10.1016/j.clinph.2019.12.401
 
+Van Dam, J. M., Graetz, L., Pitcher, J. B., Goldsworthy, M. R. (Under review). The association between I-wave recruitment and the response to cTBS is age- and sex-dependent.
+
+Van Dam, J. M., Goldsworthy, M. R., Hague, W. M, Coat, S., Pitcher, J. B. (Under review). Lower total morning cortisol secretion in adolescents born to women with gestational diabetes mellitus.
+
+Van Dam, J. M., et al. (Under review). Larger average cortisol awakening response is associated with poorer executive function and processing speed in healthy adolescents.
+
+Van Dam, J. M., et al. (2018). Variability of the cortisol awakening response and morning salivary oxytocin in late adolescence. J Neuroendocrinol, e12645. doi: 10.1111/jne.12645
+
+Van Dam, J. M., et al. (2018). Reduced cortical excitability, neuroplasticity, and salivary cortisol in 11–13-year-old children born to women with gestational diabetes mellitus. EBioMedicine, 31, 143-149. doi: 10.1016/j.ebiom.2018.04.011
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
