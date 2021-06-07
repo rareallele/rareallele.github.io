@@ -6,8 +6,13 @@
 [Sleep-related infant deaths, South Australia 2005-2019](https://cdsirc.sa.gov.au/sleep-related-infant-deaths-and-socio-economic-disadvantage/)
 
 Follow link to analysis and figures on the CDISRC website. Figures were produced using Plotly and presented using Shiny.
+The code can be found [here](https://github.com/rareallele/safe-sleeping-deaths).
 
-The code canbe found [here](https://github.com/rareallele/safe-sleeping-deaths).
+
+[Neonatal deaths in South Australia, 2019 vs the previous 5 years](https://rareallele.github.io/neonatal-deaths-SA-2019/app.html)
+
+Figures produced using Plotly and R. Find the code [here](https://github.com/rareallele/neonatal-deaths-SA-2019).
+
 
 ### Research Projects | Python 
 
