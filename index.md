@@ -8,6 +8,7 @@
 Follow link to analysis and figures on the CDISRC website. Figures were produced using Plotly and presented using Shiny.
 The code can be found [here](https://github.com/rareallele/safe-sleeping-deaths).
 
+----------
 
 [Neonatal deaths in South Australia, 2019 vs the previous 5 years](https://rareallele.github.io/neonatal-deaths-SA-2019/app.html)
 
