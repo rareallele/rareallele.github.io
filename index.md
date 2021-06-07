@@ -2,6 +2,10 @@
 
 ---
 
+### Data visualisation | Web applications
+[Sleep-related infant deaths, South Australia 2005-2019](https://cdsirc.sa.gov.au/sleep-related-infant-deaths-and-socio-economic-disadvantage/)
+Follow link to analysis and figures on the CDISRC website. Figures were produced using Plotly and presented using Shiny.
+
 ### Research Projects | Python 
 
 [Neuroplasticity and gestational diabetes](/pdf/I-waves_analysis_notebook.html)
