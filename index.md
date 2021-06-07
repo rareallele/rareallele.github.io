@@ -15,6 +15,7 @@ The code can be found [here](https://github.com/rareallele/safe-sleeping-deaths)
 Figures produced using Plotly and R. Find the code [here](https://github.com/rareallele/neonatal-deaths-SA-2019).
 
 
+----------
 ### Research Projects | Python 
 
 [Neuroplasticity and gestational diabetes](/pdf/I-waves_analysis_notebook.html)
