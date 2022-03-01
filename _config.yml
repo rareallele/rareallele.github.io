@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Neuroscientist | Data Scientist 
   <br><br>
-  <a href="https://www.linkedin.com/in/jago-van-dam-phd">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jago-van-dam-phd">View My LinkedIn Profile</a><br>
   <a href="pdf/CV_DS_JagoVanDam.pdf">View My CV</a>
   
 theme: jekyll-theme-minimal
