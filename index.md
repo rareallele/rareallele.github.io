@@ -17,14 +17,16 @@ The code can be found [here](https://github.com/rareallele/SUDI_LHN).
 Figures produced using Plotly and R. Find the code [here](https://github.com/rareallele/neonatal-deaths-SA-2019).
 
 ----------
+
 [CDSIRC Annual Report 2020-21](https://cdsirc.sa.gov.au/annual-report-2020-21/index.html).
-The 2020-21 CDSIRC Annual Report.
+A website developed from the ground up to present the Committee's annual report - previously presented in PDF.
+The site has a sidenav and includes interactive figures built using R and Plotly.
 See the code [here](https://github.com/rareallele/CDSIRC-Annual-Report-2020-21).
 
 ----------
+
 [CDSIRC Annual Report 2019-20](https://cdsirc.sa.gov.au/annual-report-2019-20/Title-LOT.html).
-A website developed from the ground up to present the Committee's annual report - previously presented in PDF.
-The site has a sidenav and includes interactive figures built using R and Plotly.
+
 See the code [here](https://github.com/rareallele/CDSIRC-Annual-Report-2019-20).
 
 
