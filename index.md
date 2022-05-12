@@ -5,6 +5,8 @@
 Figures produced with R and Plotly. Presented with HTML, CSS and JavaScript.
 See the code [here](https://github.com/rareallele/CDSIRC-FiveYearSummary).
 
+----------
+
 [Sleep-related infant deaths, South Australia 2005-2020](https://cdsirc.sa.gov.au/sleep-related-infant-deaths-and-socio-economic-disadvantage/).
 Follow link to analysis and figures on the CDISRC website. Figures were produced using Plotly and presented using Shiny.
 The code can be found [here](https://github.com/rareallele/SUDI_LHN).
