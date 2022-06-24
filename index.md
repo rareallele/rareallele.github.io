@@ -42,7 +42,7 @@ See the code [here](https://github.com/rareallele/CDSIRC-Annual-Report-2019-20).
 
 ----------
 ### SQL
-[Modeling](https://github.com/rareallele/cdr-sql) CDSIRC's data for use in Power BI.
+Modeling CDSIRC's data for use in [Power BI](https://github.com/rareallele/cdr-sql) and for import into [REDCap](https://github.com/rareallele/REDCap-SQL-Modelling).
 
 ---
 #### More to come!
